@@ -27,4 +27,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 ## API docs
-**It will be soon**
+**API docs[/https://app.apiary.io/coursesapi7/editor]**
